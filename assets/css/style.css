@@ -1180,6 +1180,10 @@ footer{
         object-fit: fill;
          min-height: 60vh !important;
     }
+
+.mission-image{
+    width: 100vw !important;
+}
     
     .slide2{ 
         background: linear-gradient(hsla(206, 69%, 12%, 0.01), hsla(206, 69%, 12%, 0.01)), url(../img/aftermath_of_health_talk-HTI.jpg);
